@@ -9,3 +9,5 @@ Salut à tous !
 4. Envoi le sur le repository distant (add / commit / push)
 5. Une fois que tout le monde a bien envoyé son fichier, choisi un binôme. Tu vas devoir modifier le contenu de son fichier en  y ajoutant ton nom et prénom. Pour cela tu dois mettre ton projet à jour (pull) car tu n’as pas tous les nouveaux fichiers, puis modifier le fichier de ton binôme 
 7. Et enfin renvoyer tes modifs sur le repository distant (add / commit / push)
+
+Salut Romain ! C'est Alexis !
